@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xxmyyds
 - 👀 I’m interested in HTML CSS Javascript Vue 
-- 🌱 I’m currently learning weixinMiniProgram
+- 🌱 I’m currently learning vue of the source code
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
